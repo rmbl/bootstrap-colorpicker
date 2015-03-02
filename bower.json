@@ -6,7 +6,7 @@
         "dist/js/bootstrap-colorpicker.js"
     ],
     "dependencies": {
-        "jquery": "^1.10",
+        "jquery": ">=1",
         "bootstrap": ">=2"
     },
     "ignore": [
